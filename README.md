@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Zoey :sparkles: </h1>
-<img align="left" alt="coding" width="460" 
+<img align="left" alt="coding" width="440" 
     src="https://user-images.githubusercontent.com/67743970/232867255-3d21aa98-0c56-43ab-afe9-a1cb63c33007.gif">
 
 ```javascript
