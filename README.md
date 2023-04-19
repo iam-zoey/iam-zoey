@@ -19,7 +19,7 @@
 <br></br>
 
 <h2> 🌱  Languages & Frameworks</h2>
-<code><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc.svg?logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML" title="HTML5"> 
+<code> <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc.svg?logo=typescript&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-14354C.svg?logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML" title="HTML5"> 
 </code> 
 
 <br></br>
