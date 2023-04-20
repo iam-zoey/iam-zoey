@@ -25,13 +25,19 @@
 <br></br>
 
 <h2> ☁️ Softwares & Tools</h2>
-<code><a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange?logo=amazon&logoColor=white"></a> <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-1187db?logo=Docker&logoColor=white"></a> <a href="https://www.kubernetes.io/"><img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-0e74bc?logo=Kubernetes&logoColor=white"></a> <a href="https://www.terraform.io"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-9c74b5?logo=Terraform&logoColor=white"></a> <a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?logo=Ansible&logoColor=white"></a> <a href="https://www.jenkins.io"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-red?logo=Jenkins&logoColor=white"></a> <a href="https://argo-cd.readthedocs.io/en/stable/"><img alt="Argo CD" src="https://img.shields.io/badge/Argo CD-f57e2c?logo=Argo&logoColor=white"></a>
+<code><a href="https://aws.amazon.com"><img alt="AWS" src="https://img.shields.io/badge/AWS-orange?logo=amazon&logoColor=white"></a> <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-86baf3?logo=Docker&logoColor=white"></a> <a href="https://www.kubernetes.io/"><img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-0e74bc?logo=Kubernetes&logoColor=white"></a> <a href="https://www.terraform.io"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-9c74b5?logo=Terraform&logoColor=white"></a> <a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-black?logo=Ansible&logoColor=white"></a> <a href="https://www.jenkins.io"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-red?logo=Jenkins&logoColor=white"></a> <a href="https://argo-cd.readthedocs.io/en/stable/"><img alt="Argo CD" src="https://img.shields.io/badge/Argo CD-f57e2c?logo=Argo&logoColor=white"></a>
 </code>
   
 <br></br>
 
+<h2> 🔥 Certifications </h2>
+<code><a href="https://www.credly.com/badges/3f96f9d8-a929-4c20-bd1a-0d7247cbc05c/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-fddcb4?logo=amazon&logoColor=f6c492"></a> <a href="https://www.credly.com/badges/ef6d12a4-be8a-49d7-bb2f-74c41ec84b83/public_url"><img alt="AZ-900" src="https://img.shields.io/badge/Microsoft-AZ 900-fff099?logo=Microsoft&logoColor=adcbe3"></a>
+</code> 
+
+<br></br>
+
 <h2> 🙌 Connect</h2>
-<code><a href="https://www.linkedin.com/in/iamzoey/"><img alt="Linkedln" src="https://img.shields.io/badge/-linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="https://www.notion.so/hellozoey/Eunyoung-Hong-095848d19a4643e5b75dbc9c422d1224?pvs=4"><img alt="Notion" src="https://img.shields.io/badge/-notion-gray?style=flat-square&logo=Notion&logoColor=white"></a> 
+<code><a href="https://www.linkedin.com/in/iamzoey/"><img alt="Linkedln" src="https://img.shields.io/badge/-linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> <a href="https://hellozoey.notion.site/Eunyoung-Hong-095848d19a4643e5b75dbc9c422d1224"><img alt="Notion" src="https://img.shields.io/badge/-notion-gray?style=flat-square&logo=Notion&logoColor=white"></a> 
 </code>
 
 
