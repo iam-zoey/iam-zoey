@@ -83,15 +83,14 @@ func main() {
             src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"></a>
 </div>
 
-<h2 style="text-align", align="center"> ✏️Blog </h2>
+<h2 style="text-align", align="center"> ✏️BLOG </h2>
 <a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"><img src="https://github.com/iam-zoey/iam-zoey/assets/67743970/053ebb9f-4307-46f7-b748-f164687e02ad" alt="External DNS with Kops" width="30%" align="left" /></a>
 
-<div class="card-background">
-    <a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"
-        class="card-link">
-        <div class="header">A Guide for Dynamic Scalability for your app: KEDA + Prometheus</div></a>
-        <div class="log-description">Explore KEDA with this post! Learn how it scales your Kubernetes workloads based on Prometheus metrics, ensuring optimal performance!</div>
 
-</div>
+<a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4">
+        <p><strong> Dynamic Scalability for your app: KEDA + Prometheus</strong></p></a>
+        <div class="log-description"><em>Explore KEDA with this post! Learn how it scales your Kubernetes workloads based on Prometheus metrics, ensuring optimal performance! #KEDA #AutoScaling</em></div>
+
+
 
 
