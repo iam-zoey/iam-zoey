@@ -1,9 +1,10 @@
 <h1 align="center">Hi, iam-zoey :sparkles: </h1>
 
-<div style="float: left; padding-left"> 
-<img align="left" alt="coding" width="480"
-    src="https://user-images.githubusercontent.com/67743970/232867255-3d21aa98-0c56-43ab-afe9-a1cb63c33007.gif">
+<div style="float: left; padding-left: 20px;"> 
+    <img align="left" alt="coding" width="50%" 
+         src="https://user-images.githubusercontent.com/67743970/232867255-3d21aa98-0c56-43ab-afe9-a1cb63c33007.gif">
 </div>
+
 
 <div style="float: right; padding-right">
     
@@ -82,5 +83,7 @@ func main() {
             src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"></a>
 </div>
 
+<h2 style="text-align", align="center"> ✏️Blog </h2>
+<a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"><img src="" alt="External DNS with Kops" width="250px" align="left" /></a>
 
 
