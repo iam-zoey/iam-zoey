@@ -84,6 +84,14 @@ func main() {
 </div>
 
 <h2 style="text-align", align="center"> ✏️Blog </h2>
-<a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"><img src="" alt="External DNS with Kops" width="250px" align="left" /></a>
+<a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"><img src="https://github.com/iam-zoey/iam-zoey/assets/67743970/053ebb9f-4307-46f7-b748-f164687e02ad" alt="External DNS with Kops" width="30%" align="left" /></a>
+
+<div class="card-background">
+    <a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"
+        class="card-link">
+        <div class="header">A Guide for Dynamic Scalability for your app: KEDA + Prometheus</div></a>
+        <div class="log-description">Explore KEDA with this post! Learn how it scales your Kubernetes workloads based on Prometheus metrics, ensuring optimal performance!</div>
+
+</div>
 
 
