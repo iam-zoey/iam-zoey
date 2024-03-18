@@ -1,0 +1,23 @@
+.header {
+    font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif;
+    color: #eb531f;
+    animation: fadeInAnimation 0.8s ease-in-out forwards;
+}
+
+.log-description {
+    font-size: 12px;
+    color: #ffffff;
+    /* Adjust text color based on the theme */
+}
+
+.card-background {
+    background-color: #242a2d;
+    /* Dark theme background color */
+    border-color: #30353d;
+    /* Add other styling properties here */
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
