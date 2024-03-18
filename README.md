@@ -84,13 +84,18 @@ func main() {
 </div>
 
 <h2 style="text-align", align="center"> ✏️BLOG </h2>
-<a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"><img src="https://github.com/iam-zoey/iam-zoey/assets/67743970/053ebb9f-4307-46f7-b748-f164687e02ad" alt="External DNS with Kops" width="30%" align="left" /></a>
-
-
+<a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4">
+        <img src="https://github.com/iam-zoey/iam-zoey/assets/67743970/053ebb9f-4307-46f7-b748-f164687e02ad" alt="External DNS with Kops" width="30%" align="left" /></a>
 <a href="https://iam-zoey.notion.site/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4">
         <p><strong> Dynamic Scalability for your app: KEDA + Prometheus</strong></p></a>
         <div class="log-description"><em>Explore KEDA with this post! Learn how it scales your Kubernetes workloads based on Prometheus metrics, ensuring optimal performance! #KEDA #AutoScaling</em></div>
 
+<br></br> 
+
+<a href="https://www.notion.so/iam-zoey/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4">
+        <img src="https://github.com/iam-zoey/iam-zoey/assets/67743970/12e96019-ee5b-4dd7-a106-da9ba15c1e5b" alt="External DNS with Kops" width="30%" align="left" /></a>
+<a href="https://www.notion.so/iam-zoey/External-DNS-w-kOp-afbe49e501714b869b9ce9e4421c1640?pvs=4"> <p><strong> External DNS with Kops</strong></p></a>
+        <div class="log-description"><em>Simplify DNS management for your Kops-deployed Kubernetes cluster using External DNS. Follow easy steps to configure and deploy External DNS, effortlessly managing DNS records for your cluster's resources.</em></div>
 
 
 
