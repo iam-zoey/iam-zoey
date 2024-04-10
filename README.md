@@ -17,7 +17,7 @@ func main() {
     zoey := map[string]interface{}{
         "Name":      "Zoey Hong (Eunyoung)",
         "Pronounce": "She / Her",
-        "Interests": []string{"DevOps Engineer", "Backend Developer"},
+        "Interests": []string{"DevOps Engineer", "Cloud Security Engineer"},
     }
 
     sayHello() 
