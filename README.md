@@ -32,14 +32,9 @@ func main() {
 <h2 style="text-align", align="center"> 🌱 LANGUAGES & FRAMEWORKS  </h2>
 <div align="center", style="display: flex; flex-direction: row;">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-14354C.svg?style=for-the-badge&logo=linux&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img alt=" C" src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="Express" src="https://img.shields.io/badge/Express-282C34?style=for-the-badge&logo=express&logoColor=FFFFFF" >
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-A4373A.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white">
+
 </div>
 
 
@@ -59,6 +54,7 @@ func main() {
             src="https://img.shields.io/badge/Jenkins-CC342D?style=for-the-badge&logo=Jenkins&logoColor=white"></a>
     <a href="https://argo-cd.readthedocs.io/en/stable/"><img alt="Argo CD"
             src="https://img.shields.io/badge/Argo CD-f57e2c?style=for-the-badge&logo=Argo&logoColor=white"></a>
+
 </div>
 
 
